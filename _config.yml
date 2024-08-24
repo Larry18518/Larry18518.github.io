@@ -17,13 +17,13 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: Larry18518
+  zhihu: larry-brown
   email: 1851882790@qq.com
-  facebook: Larry18518
+  facebook: 
   github: Larry18518
   rss: # just type anything here for a working RSS icon
   twitter: Larry18518
-  youtube: Larry18518
+  youtube: @Larry18518
 
 footer-text: Copyright (c) 2024 Larry18518
 
